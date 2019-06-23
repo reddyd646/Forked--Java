@@ -9,7 +9,8 @@ import java.util.Scanner;
  * Class for converting from "any" base to "any" other base, when "any" means from 2-36.
  * Works by going from base 1 to decimal to base 2. Includes auxiliary method for
  * determining whether a number is valid for a given base.
- *
+ * Updated Comment
+ 
  * @author Michael Rolland
  * @version 2017.10.10
  */
