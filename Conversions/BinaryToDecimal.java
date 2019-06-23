@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * This class converts a Binary number to a Decimal number
- *
+ * added the second comment
  */
 class BinaryToDecimal {
 
