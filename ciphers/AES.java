@@ -8,6 +8,8 @@ import java.util.Scanner;
  * single 128-Bit block of data.
  *
  */
+
+// Random comments entered
 public class AES {
 
 	/**
